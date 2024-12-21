@@ -1,9 +1,9 @@
-import Example2 from "./example-2";
+import BaiTap from "./bai-tap";
 
 function App() {
   return (
     <>
-      <Example2 />
+      <BaiTap />
     </>
   );
 }
